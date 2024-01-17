@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(https://wallpapercave.com/wp/wp7937501.jpg);
+	display: flex;
+	min-height: 800px;
+	
+}
+button{
+		font-size: small;
+		background-color: rgb(255, 0, 0);
+		height: 50px;
+		width: 120%;
+		box-shadow: 0 0 10px;
+		border: none;
+        border-radius: 10px;
+         left: 100px;
+         padding-top: 5%;
+       
+        
+           		
+	}
+	button:hover {
+    background-color: rgb(192, 192, 192);
+    }
+    a{
+		padding-top: 10%;
+		left: 0;
+		position: relative;
+	}
+	a{
+		padding: 15px;
+	}

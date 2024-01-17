@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(https://hobbycents.com/wp-content/uploads/2022/05/Listening-To-Music-Hobby.jpg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 700px;
+	padding-bottom: 20%;
+	padding-top: 20%;
+}
+button{
+		font-size: small;
+		background-color: rgb(255, 255, 0);
+		height: 50px;
+		width: 120%;
+		box-shadow: 0 0 10px;
+		border: none;
+        border-radius: 10px;
+         left: 100px;
+       
+        
+           		
+	}
+	button:hover {
+    background-color: rgb(255, 128, 128);
+    }
+    div{
+		padding: 30px;
+		padding-top: 35px;
+		align-items: center;
+		padding-right:0px;
+		
+	}
+	
+
+   

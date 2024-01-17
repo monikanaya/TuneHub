@@ -1,0 +1,49 @@
+body{
+	background-image: url(https://wallpapercave.com/wp/wp2327029.jpg);
+	align-items: center;
+	text-align: center;
+
+}
+div{
+
+	justify-content: center;
+	align-content: center;
+	padding-top: 10%;
+	padding-bottom: 70%;
+	padding-left: 70%;
+
+	
+	}
+	button{
+		font-size: medium;
+		background-color: rgb(255, 255, 255);
+		height: 50px;
+		width: 10%;
+		box-shadow: 0 0 20px;
+		border: none;
+        border-radius: 15px;
+        
+        
+        		
+	}
+	button:hover {
+    background-color: rgb(255, 128, 128);
+    }
+
+h1{
+	color: aliceblue;
+	
+	text-align: center;
+
+	justify-content: center;
+	
+	
+}
+h4{
+	color: blanchedalmond;
+}
+
+
+
+
+

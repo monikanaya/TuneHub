@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(https://miro.medium.com/v2/da:true/resize:fit:1200/0*M7uw28p4E8jsQpLg);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 700px;
+	padding-bottom: 20%;
+	padding-top: 20%;
+}
+	button{
+		font-size: medium;
+		background-color: rgb(255, 255, 255);
+		height: 70px;
+		width: 170px;
+		box-shadow: 0 0 20px;
+		border: none;
+        border-radius: 15px;
+        
+        right: 170px;
+        top: 60px;
+        position: relative;
+        
+        
+        		
+	}
+	button:hover {
+    background-color: rgb(255, 128, 128);
+    }
